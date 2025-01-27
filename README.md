@@ -5,7 +5,7 @@
 
 
 
-# bug-free-folio
+# bug-free-folio 🚀
 watch here 
 https://folios2p.netlify.app/
 
