@@ -8,7 +8,7 @@
 # bug-free-folio 🚀
 
 
-[Live Demo](https://folios2p.netlify.app/)  
+[Live Demo](https://bug-free-folio-1qeu367g1-sharyu-patil-s-projects.vercel.app/)  
 
 Personal portfolio website showcasing my skills, education, projects, and contact info. Built with **HTML, CSS, JavaScript, and jQuery**.  
 
