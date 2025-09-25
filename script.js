@@ -67,3 +67,17 @@ ScrollReveal().reveal(".projects, .contact",{
 
 
 })
+
+// Typing effect
+var typed = new Typed("#typing", {
+  strings: [
+    "Sharyu Patil",
+    "Web Developer",
+    "Tech Enthusiast",
+    "Curious Learner",
+  ],
+  typeSpeed: 80,
+  backSpeed: 50,
+  loop: true,
+});
+

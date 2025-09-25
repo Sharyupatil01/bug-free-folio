@@ -59,6 +59,16 @@ body{
   
     
 }
+/* --- Typing effect styling --- */
+#typing {
+  color: var(--highlight);   /* highlight color from your theme */
+  font-weight: bold;
+  font-size: 2rem;
+  border-right: 2px solid var(--highlight); /* blinking cursor */
+  white-space: nowrap;
+  overflow: hidden;
+}
+
 .logo
 {
     display:flex;
